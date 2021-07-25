@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @tkirk1222
+- 👀 I’m interested in ...
+Web application, python, GUI's, Excel, VBA
+- 🌱 I’m currently learning ...
+Django Web application , just finished python for everybody
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+timkirkinfo@gmail.com
+
+<!---
+tkirk1222/tkirk1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
